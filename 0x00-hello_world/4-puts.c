@@ -2,6 +2,7 @@
 
 /**
  * main - Entry Point
+ *
  * no argument
  * Description: prints string to standard output
  * Return: Always 0 (success)
