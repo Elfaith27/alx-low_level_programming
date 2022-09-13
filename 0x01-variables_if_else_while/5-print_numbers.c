@@ -4,7 +4,7 @@
  * main_entry point of program
  * no arguments
  *
- * Descripyion:prints all single digits of base 10 from 0
+ * Description:prints all single digits of base 10 from 0
  * Return:0 on success
  */
 int main(void)
