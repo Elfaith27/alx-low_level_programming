@@ -4,7 +4,7 @@
  * main - entry point of program
  *
  * Description:prints lowercase alphabet in reverse oder using putchar()
- * Return:0 on success
+ * Return:value of 0 on success
  */
 int main(void)
 {
