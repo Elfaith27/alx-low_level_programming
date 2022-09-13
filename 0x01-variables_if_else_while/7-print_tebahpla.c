@@ -3,8 +3,8 @@
 /**
  * main - entry point of program
  *
- * Description:prints lowercase alphabet in reverse oder using putchar()
- * Return:value of 0 on success
+ * Description:prints lowercase alphabet in reverse order using putchar()
+ * Return:0 on success
  */
 int main(void)
 {
