@@ -1,8 +1,8 @@
 #include "main.h"
-#include "2-strlen.c"
+#include <stdio.h>
 
 /**
- * _puts - puts a string
+ * _puts - prints a string followed
  *
  * @str:string to print
  */
@@ -12,7 +12,7 @@ void _puts(char *str)
 
 	for (i = 0; *(str + i) != '\0'; i++)
 	{
-		_putchar(*(str + i));
+		putchar(*(str + i));
 	}
-	_putchar('\n');
+	putchar('\n');
 }
