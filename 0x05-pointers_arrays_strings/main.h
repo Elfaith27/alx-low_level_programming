@@ -22,5 +22,6 @@ void print_rev(char *s);
  *
  *  @str:string to put
  */
+void rev_string(char *s);
 
 #endif
